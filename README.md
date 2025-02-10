@@ -35,7 +35,7 @@ The app workflow is:
 1. Clone the repo
 
 ```bash
-git clone https://github.com/user/stockastic.git
+git clone https://github.com/codingacharya/stock-price-analysis-and-forecasting.git
 ```
 
 2. Install requirements
